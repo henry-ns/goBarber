@@ -54,7 +54,7 @@
     "mailgun-js": "^0.22.0",
     "mongodb": "^3.5.7",
     "multer": "^1.4.2",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "nodemailer-mailgun-transport": "^2.0.0",
     "pg": "^8.0.2",
     "rate-limiter-flexible": "^2.1.4",
